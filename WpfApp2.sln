@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{A407C844-8D42-4759-BDEE-7152358C5ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mypassword", "Mypassword\Mypassword.csproj", "{767E5A6A-8DD8-432B-BB77-34B84EFB8D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A407C844-8D42-4759-BDEE-7152358C5ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A407C844-8D42-4759-BDEE-7152358C5ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A407C844-8D42-4759-BDEE-7152358C5ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A407C844-8D42-4759-BDEE-7152358C5ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767E5A6A-8DD8-432B-BB77-34B84EFB8D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767E5A6A-8DD8-432B-BB77-34B84EFB8D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767E5A6A-8DD8-432B-BB77-34B84EFB8D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767E5A6A-8DD8-432B-BB77-34B84EFB8D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF0EE21-6F04-4040-AC4A-C99439D57F8F}
+	EndGlobalSection
+EndGlobal
